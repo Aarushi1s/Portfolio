@@ -1,4 +1,4 @@
-# Aarushi Sharma – Data Analyst Portfolio  
+# Aarushi Sharma – Portfolio  
 *Data Analyst | Skilled in SQL, Python, BI Tools | Bridging data and decision-making with clarity and precision* 
 
 ## About  
