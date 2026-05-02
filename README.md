@@ -124,7 +124,7 @@ A clear, structured BRD that can serve as the foundation for implementing EV-foc
 
 ## Certificates  
 
-**Microsoft Data Analyst Associate - PL-300**
+**Microsoft Data Analyst Associate - PL-300**  
 **Microsoft Azure Fundamentals - AZ-900**  
 **Udemy: The Data Analyst Course.**
 
