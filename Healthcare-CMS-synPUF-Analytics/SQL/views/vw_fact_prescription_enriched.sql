@@ -6,15 +6,8 @@ CREATE OR ALTER VIEW vw_fact_prescription_enriched AS
 SELECT
 f.PrescriptionDrugEventID,
 f.BeneficiaryID,
-f.ServiceDate,
-TRY_CAST(
-	CONCAT(
-		LEFT(f.ServiceDate, 4), '-',
-		SUBSTRING(f.ServiceDate, 5, 2), '-',
-		RIGHT(f.ServiceDate, 2)
-		) AS Date
-	) AS ServiceDateClean,
-TRY_CAST(LEFT(f.ServiceDate, 4) AS INT) AS ServiceYear,
+f.ServiceDate as ServiceDateClean,
+YEAR(f.ServiceDate) AS ServiceYear,
 f.ProductServiceID,
 f.QuantityDispensedNumber,
 f.DaysSupplyNumber,
@@ -51,6 +44,7 @@ FROM fact_prescription_drug f
 LEFT JOIN dim_beneficiary_yearly b
 	ON f.BeneficiaryID = b.BeneficiaryID
 	AND TRY_CAST(LEFT(f.ServiceDate, 4) AS INT) = b.Year;
+
 
 /*Validating the view now.*/
 
