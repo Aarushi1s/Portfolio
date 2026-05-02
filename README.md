@@ -22,10 +22,10 @@ I am continuously learning and expanding my technical skill set, with recent han
 
 ## Portfolio Projects  
 
-### **1) Healthcare Insurance Claim/Medicare Analysis [End-to-End] - SQL(ETL Pipelines, schema design, views)/Python(EDA, Validation, Anomaly Detection)/Power BI(Dashboard)**
+### **1) Healthcare Insurance Claim Analysis [End-to-End] - SQL(ETL Pipelines, schema design, views)/Python(EDA, Validation, Anomaly Detection)/Power BI(Dashboard)**
 **Goal:**
 
-**Description:** Using CMS.gov SynPUF(Synthetic Public Use Files) for key insights about the high cost Beneficiaries, fraud detection, diagnosis cost burdens and such.
+**Description:** Using CMS.gov SynPUF(Synthetic Public Use Files) Medicare data for key insights about the high cost Beneficiaries, fraud detection, diagnosis cost burdens and such.
 
 **Key Insights:**
 
