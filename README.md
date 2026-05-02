@@ -31,7 +31,7 @@ I am continuously learning and expanding my technical skill set, with recent han
 
 **Skills & Technologies:**
 
-### **2) Customer Churn Analysis – Power BI (Dashboard Project)**
+### **2) Customer Churn Analysis - Power BI (Dashboard Project)**
 **Goal:** To build an interactive Power BI dashboard to analyze customer churn patterns and enable business stakeholders to explore key drivers of churn visually.
 
 **Description:**  
@@ -82,7 +82,7 @@ This project uses the **Kaggle Telco Customer Churn dataset** to create a dynami
 
 ---
 
-### **3) Customer Churn Analysis – Python (EDA & Statistical Analysis)**  
+### **3) Customer Churn Analysis - Python (EDA & Statistical Analysis)**  
 
 **Goal:**  To analyze customer churn patterns and identify key factors influencing customer retention using Python.
 
@@ -107,7 +107,7 @@ This project uses the **Kaggle Telco Customer Churn dataset** to investigate why
 
 ---
 
-### **4) Business Requirement Document – Electric Vehicles**
+### **4) Business Requirement Document - Electric Vehicles**
 
 **Goal:** To define business requirements for an Electric Vehicle (EV) analytics project.  
 
@@ -125,7 +125,7 @@ A clear, structured BRD that can serve as the foundation for implementing EV-foc
 ## Certificates  
 
 **Microsoft Data Analyst Associate - PL-300**
-**Microsoft Azure Fundamentals – AZ-900**  
+**Microsoft Azure Fundamentals - AZ-900**  
 **Udemy: The Data Analyst Course.**
 
 ---
