@@ -22,7 +22,7 @@ I am continuously learning and expanding my technical skill set, with recent han
 
 ## Portfolio Projects  
 
-### **1) CMS SynPUF Healthcare Insurance Claim/Mediclaim Analysis [End-to-End] - SQL(ETL Pipelines, schema design, views)/Python(EDA, Validation, Anomaly Detection)/Power BI(Dashboard)
+### **1) CMS SynPUF Healthcare Insurance Claim/Mediclaim Analysis [End-to-End] - SQL(ETL Pipelines, schema design, views)/Python(EDA, Validation, Anomaly Detection)/Power BI(Dashboard)**
 **Goal:**
 
 **Description:**
